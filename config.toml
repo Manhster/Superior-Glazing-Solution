@@ -1,0 +1,209 @@
+# Main config file for icon theme.
+theme = "hugo-icon"
+baseURL = "https://www.sgsglazing.com/"
+languageCode = "en-AU"
+title = "Superior Glazing Solutions"
+
+# Metadata
+[params]
+  author = "Your name"
+  description = "Cool description"
+
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/hero_bg.jpg"
+  title = "NORTHWEST's TOP GLASS GLAZING SERVICES"
+  description = "[Superior Glazing, LLC is built around three core values: Ethics, Loyalty & Service.](https://freehtml5.co/)"
+
+# Navigation section
+[params.nav]
+  mission = "Glazing Intro"
+  services = "Services"
+  team = "About SGS"
+  contact = "Contact Us"
+  # Include logo instead if HOME:
+  # logo = "path/to/logo"
+
+# Mission section
+[params.mission]
+  enable = true
+
+  [params.mission.images]
+    enable = true
+
+    [[params.mission.images.list]]
+      img = "images/img_3.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_2.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_1.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_4.jpg"
+
+  [[params.mission.item]]
+    weight = 1
+    name = "marketing"
+    title = "Commercial"
+    subtitle = "Big, Medium & Small Commercial Projects"
+    description = "<p>New build installations and major refurbishment works form a significant part of our business. Working closely with either main contractors or directly for the end user we provide a complete glazing solution. From conception to completion, we can help you through the design process, advise on materials and ensure you comply with all current regulations. We are able to work from and produce detailed drawings and calculations for your buildings both internally and externally.</p><ul class='checked'><li>Licensed</li><li>Insured</li><li>Experienced</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+
+  [[params.mission.item]]
+    weight = 2
+    name = "analysis"
+    title = "Residential"
+    subtitle = "Single or Multi Residential"
+    description = "<p>From standard to full height frameless, we provide a wide option for single and multi-residential designs. Glazing services includes design drawings, calculations and installation by a fully qualified, experienced installation team. Glass types include elements such as single glazed bolted glass assemblies, toughened laminated canopies, full or cantilevered glass fins and glass door assemblies. Multiple units or single residential installations, interior or exterior glazing work, we have you covered. </p><ul class='checked'><li>Professional</li><li>Courteous</li><li>Punctual</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+
+  [[params.mission.item]]
+    weight = 3
+    name = "strategy"
+    title = "Retrofit & Repairs"
+    subtitle = "Residental or Commercial "
+    description = "<p>While the build is the first process, maintaining is the next or recovering in my times is inevitable. The aging process and accidental damage of commercial or residential properties is a normal part of any structure. Our highly trained and skilled project planner and installation crew can diagnose and fix any retrofits or repairs that’s needed for all internal or external glazing projects.  </p><ul class='checked'><li>Reliable</li><li>Dedicated</li><li>Honest</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+
+# Services section
+[params.services]
+  enable = true
+  video = true
+  vidlink = "https://vimeo.com/250706472"
+  title = "Our Services"
+  description = "We are a full-service glazing contractor providing the highest quality service to residential, and commercial clients in Greater Seattle area. From installing a new glass to restoring the old, our licensed contractors and expert technicians are dedicated to working with you to implement a solution that meets your needs. At SGS Superior Glazing Solutions, our goal is to be Northwest’s first choice for professional quality installation and replacement solutions."
+
+  [[params.services.item]]
+    icon = "icon-SGS"
+    title = "Glass Door Assemblies"
+    description = "Framed or frameless installations, offered a varied mix of door ironmongery with patch fittings, rails, locks, handles and door openers/closers in various finishes. Doors are generally manufactured from 12mm thick single toughened safety glass and with varying overall height and widths (please contact for advice on maximum sizes and permissible weights)."
+
+  [[params.services.item]]
+    icon = "icon-SGS"
+    title = "Glass Canopies"
+    description = "We design, supply and install all types of glass / polycarbonate canopies. Available in toughened laminated, laminate, acrylic, polycarbonate and in a range of styles and finishes. From single doorways to walk ways and false ceilings a glass canopy can have a stunning visual effect whilst providing shelter and protection from the elements and the suns UV rays. "
+
+  [[params.services.item]]
+    icon = "icon-SGS"
+    title = "Glass Screens"
+    description = "Free standing or fully framed, clear, frosted or with a partial design, straight or curved glass. We can supply and fit a wide range of screens. Numerous glass options available, including single glazed safety laminate, toughened laminate or multi-layered security laminate. Multi layered high security anti-bandit glass and even bullet resistant ballistic glass can be used to enhance security."
+
+  [[params.services.item]]
+    icon = "icon-SGS"
+    title = "Glass Bends"
+    description = "Here at Superior Glazing Solutions, we can provide a full range of glass bends to meet any of our client’s design and performance requirements. Some of the available glass type includes standard ‘float’ glass, toughened glass, safety laminated glass, toughened laminated glass and high performance laminated ‘security’ glass."
+
+  [[params.services.item]]
+    icon = "icon-SGS"
+    title = "Structural Glazing/Bolted Systems"
+    description = "We offer full height frameless for residential or shopfronts to showrooms and commercial buildings of all scales. Some glass types includes single glazed bolted glass assemblies, toughened laminated canopies, full or cantilevered glass fins and glass door assemblies (with patch fittings or rails). "
+
+  [[params.services.item]]
+    icon = "icon-SGS"
+    title = "Aluminium Curtain Walling"
+    description = "Designed to offer an aesthetically pleasing, high performance, cost effective solution for both new build and refurbishment projects. The glazing can be either single or double glazed depending on the design and performance requirements. In addition, provided are wide options of doors, windows and ground floor framing to compliment the curtain walling."
+
+# Work section
+[params.work]
+  enable = true
+
+  [[params.work.item]]
+    title = "Kia Project - View 1"
+    subtitle = "Before"
+    img = "images/img_5.jpg"
+
+  [[params.work.item]]
+    title = "Kia Project - View 1"
+    subtitle = "After"
+    img = "images/img_6.jpg"
+
+  [[params.work.item]]
+    title = "Kia Project - View 2"
+    subtitle = "Before"
+    img = "images/img_7.jpg"
+
+  [[params.work.item]]
+    title = "Kia Project - View 2"
+    subtitle = "After"
+    img = "images/img_8.jpg"
+
+  [[params.work.item]]
+    title = "Kia Project - View 3"
+    subtitle = "Before"
+    img = "images/img_9.jpg"
+
+  [[params.work.item]]
+    title = "Kia Project - View 3"
+    subtitle = "After"
+    img = "images/img_10.jpg"
+
+  [[params.work.item]]
+    title = "Kia Project - View 4"
+    subtitle = "Before"
+    img = "images/img_11.jpg"
+
+  [[params.work.item]]
+    title = "Kia Project - View 4"
+    subtitle = "After"
+    img = "images/img_12.jpg"
+
+
+# Team section
+[params.team]
+  enable = true
+  title = "About Superior Glazing Solutions"
+  description = "Superior Glazing, LLC. was built around three values: Ethics Loyalty Service. Since our inception, the founders of Superior Glazing visions was to build a family-oriented construction company where the main focus was unmatched customer service. He believed that if you have a strong work ethic, positive attitude and if you treated your employees and clients the same way you treated your own family, everything else would fall into place. Since 2013, Superior Glazing has continued to grow and has established itself as a leader in the commercial retail construction industry."
+
+  [[params.team.item]]
+    name = "Aaron Edwards"
+    position = "General Manager"
+    description = "Over two decades in the costruction & glazing industry, Aaron's quaity of work and craftmenship can be seen in all his projects."
+    img = "images/person1.jpg"
+    email = "mailto:aarone@superiorglazingsolutions.com"
+    telephone = "href='tel:425-830-9912'"
+
+  [[params.team.item]]
+    name = "James Broxson"
+    position = "Installation Manager"
+    description = "Also over decades in the industry, James and his highly trained installation crew are one the best in the business."
+    img = "images/person2.jpg"
+    email = "mailto:jamesb@superiorglazingsolutions.com"
+    telephone = "href='tel:425-387-7613'"
+
+  [[params.team.item]]
+    name = "Brianna Broxson"
+    position = "Lead Estimator"
+    description = "Estimation and cost analyst is one of the most important part of any projects, Brianna is happy to help you with any project questions."
+    img = "images/person3.jpg"
+    email = "mailto:briannab@superiorglazingsolutions.com"
+    telephone = "href='tel:425-583-5800'"
+
+
+  # [[params.team.item]]
+  #   name = "Jason Doe"
+  #   position = "Chief haranguer"
+  #   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  #   img = "images/person3.jpg"
+  #   email = "#"
+  #   telephone = "#"
+  #   facebook = "#"
+  #   twitter = "#"
+  #   dribbble = "#"
+  #   instagram = "#"
+  #   github = "#"
+  #   whatsapp = "#"
+
+# Contact section
+[params.contact]
+  enable = true
+  title = "Questions or Quotes, our Superior Glazing Solutions Team can help you with any glass inquires for all of your project needs."
+  message = "<a href='https://www.google.com/maps/place/Superior+Glazing+Solutions/@48.0553739,-122.1804606,15z/data=!4m13!1m7!3m6!1s0x5485548736417a71:0x13172b66986eefbe!2s1327+9th+St,+Marysville,+WA+98270!3b1!8m2!3d48.0566084!4d-122.1789986!3m4!1s0x54855487369cb415:0x84b93dc3e7698b91!8m2!3d48.0564477!4d-122.1787683' rel='nofollow noopener' target='_blank'>1327 9th St, Marysville, WA 98270</a> <br> Office: <a href='tel:425-583-5800' target='_blank'>425-583-5800</a> <br> Mobile: <a href='tel:425-830-9912' target='_blank'>425-830-9912</a>  <br> [info@SGSglazing.com](mailto:aarone@superiorglazingsolutions.com)"
+  name_placeholder = "Your name"
+  email_placeholder = "Your email"
+  email_disclaimer = "We'll never share your email with anyone else."
+  message_placeholder = "Please enter a message."
+  button_text = "Submit"
+
+# Footer section
+# Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
+[params.footer]
+  enable = true
+  note = "<p>Affiliates & Sponsors <a href='http://sgsglazing.com/' rel='nofollow noopener' target='_blank'>SGS Glazing</a> / <a href='http://wacoatings.com/' rel='nofollow noopener' target='_blank'>WA Coatings</a><br> <small>&copy; 2019. All Rights Reserved. Superior Glazing, LLC & Design Manhster <br> Designed by <a href='http://Klooso.com' rel='nofollow noopener' target='_blank'>Klooso</a></p>"
+
+  
