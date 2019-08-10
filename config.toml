@@ -1,19 +1,19 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://www.sgsglazing.com/"
+baseURL = ""
 languageCode = "en-AU"
 title = "Superior Glazing Solutions"
 
 # Metadata
 [params]
-  author = "Your name"
-  description = "Cool description"
+  author = "The Manhster"
+  description = "Thank You Hugo"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
   title = "NORTHWEST's TOP GLASS GLAZING SERVICES"
-  description = "[Superior Glazing, LLC is built around three core values: Ethics, Loyalty & Service.](https://freehtml5.co/)"
+  description = "Superior Glazing, LLC is built around three core values: Ethics, Honesty & Quality Service."
 
 # Navigation section
 [params.nav]
@@ -45,29 +45,29 @@ title = "Superior Glazing Solutions"
     name = "marketing"
     title = "Commercial"
     subtitle = "Big, Medium & Small Commercial Projects"
-    description = "<p>New build installations and major refurbishment works form a significant part of our business. Working closely with either main contractors or directly for the end user we provide a complete glazing solution. From conception to completion, we can help you through the design process, advise on materials and ensure you comply with all current regulations. We are able to work from and produce detailed drawings and calculations for your buildings both internally and externally.</p><ul class='checked'><li>Licensed</li><li>Insured</li><li>Experienced</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>New build installations and major refurbishment works form a significant part of our business. All by code, Superior Glazing Solutions Works closely with either main contractors or directly with project lead to complete any of your glazing solutions. From conception to completion, we can help you through the design process, advise on materials and ensure you comply with all current regulations. We are able to work from and produce detailed drawings and calculations for your buildings both internally and externally.</p><ul class='checked'><li>Licensed</li><li>Insured</li><li>Experienced</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
     name = "analysis"
     title = "Residential"
     subtitle = "Single or Multi Residential"
-    description = "<p>From standard to full height frameless, we provide a wide option for single and multi-residential designs. Glazing services includes design drawings, calculations and installation by a fully qualified, experienced installation team. Glass types include elements such as single glazed bolted glass assemblies, toughened laminated canopies, full or cantilevered glass fins and glass door assemblies. Multiple units or single residential installations, interior or exterior glazing work, we have you covered. </p><ul class='checked'><li>Professional</li><li>Courteous</li><li>Punctual</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>From standard to full height frameless, we provide a wide option for single and multi-residential designs. Glazing services includes design drawings, calculations and installation by a fully qualified, experienced installation team. Glass types include elements such as single glazed bolted glass assemblies, toughened laminated canopies, full or cantilevered glass fins and glass door assemblies. Multiple units or single residential installations, interior or exterior glazing work, Superior Glazing Solutions got you covered. </p><ul class='checked'><li>Professional</li><li>Courteous</li><li>Punctual</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 3
     name = "strategy"
     title = "Retrofit & Repairs"
     subtitle = "Residental or Commercial "
-    description = "<p>While the build is the first process, maintaining is the next or recovering in my times is inevitable. The aging process and accidental damage of commercial or residential properties is a normal part of any structure. Our highly trained and skilled project planner and installation crew can diagnose and fix any retrofits or repairs that’s needed for all internal or external glazing projects.  </p><ul class='checked'><li>Reliable</li><li>Dedicated</li><li>Honest</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>Like all things, time and elements can alway cause issues with any structure. Glass maintaining can be constant process or in many cases, repairs is inevitable. The aging process and accidental damage of commercial or residential properties is a normal part of any structure. Here at Superior Glazing Solutions, our highly trained and skilled project planner and installation crew can diagnose and fix any retrofits or repairs that’s needed for all internal or external glazing projects. </p><ul class='checked'><li>Reliable</li><li>Dedicated</li><li>Honest</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
 # Services section
 [params.services]
   enable = true
-  video = true
+  video = false
   vidlink = "https://vimeo.com/250706472"
-  title = "Our Services"
-  description = "We are a full-service glazing contractor providing the highest quality service to residential, and commercial clients in Greater Seattle area. From installing a new glass to restoring the old, our licensed contractors and expert technicians are dedicated to working with you to implement a solution that meets your needs. At SGS Superior Glazing Solutions, our goal is to be Northwest’s first choice for professional quality installation and replacement solutions."
+  title = "Some of Our Services"
+  description = "Superior Glazing Solutions is a full-service glazing contractor providing the highest quality service to residential and commercial clients in Greater Seattle area. New installation, to restoring or repairs of any of your glass internally or externally, Superior Glazing Solutions' licensed contractors and expert technicians are dedicated to working with you to implement a solution that meets any of your project needs. At Superior Glazing Solutions, our goal is to be Northwest’s first choice for professional quality glazing installation and replacement solutions."
 
   [[params.services.item]]
     icon = "icon-SGS"
@@ -96,8 +96,8 @@ title = "Superior Glazing Solutions"
 
   [[params.services.item]]
     icon = "icon-SGS"
-    title = "Aluminium Curtain Walling"
-    description = "Designed to offer an aesthetically pleasing, high performance, cost effective solution for both new build and refurbishment projects. The glazing can be either single or double glazed depending on the design and performance requirements. In addition, provided are wide options of doors, windows and ground floor framing to compliment the curtain walling."
+    title = "Aluminum Curtain Walling"
+    description = "Designed to offer an aesthetically pleasing, high performance, cost effective solution for both new build and refurbishment projects. Offered in a single or double glazed depending on the design and performance requirements. In addition, provided are wide options of doors, windows and ground floor framing to compliment the curtain walling."
 
 # Work section
 [params.work]
@@ -153,7 +153,7 @@ title = "Superior Glazing Solutions"
   [[params.team.item]]
     name = "Aaron Edwards"
     position = "General Manager"
-    description = "Over two decades in the costruction & glazing industry, Aaron's quaity of work and craftmenship can be seen in all his projects."
+    description = "Two decades in the construction & glazing industry, Aaron’s quality of work and craftsmanship can be seen in all his projects."
     img = "images/person1.jpg"
     email = "mailto:aarone@superiorglazingsolutions.com"
     telephone = "href='tel:425-830-9912'"
