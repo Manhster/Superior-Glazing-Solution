@@ -18,13 +18,13 @@ body.fh5co-overflow {
 }
 
 a {
-  color: #69c2c8;
+  color: #fe5200;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:focus, a:active {
-  color: #3da1a7;
+  color: #fe5200;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -65,21 +65,21 @@ p {
 }
 
 .btn-primary {
-  background: #69c2c8;
+  background: #351c04;
   color: #fff;
-  border: 2px solid #69c2c8;
+  border: 2px solid #351c04;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #56bac1 !important;
-  border-color: #56bac1 !important;
+  background: #351c04!important;
+  border-color: #351c04 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #69c2c8;
-  border: 2px solid #69c2c8;
+  color: #fe5200;
+  border: 2px solid #fe5200;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #69c2c8;
+  background: #fe5200;
   color: #fff;
 }
 
@@ -184,7 +184,7 @@ p {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #69c2c8;
+  border-color: #fe5200;
 }
 
 .fh5co-page {
@@ -321,7 +321,7 @@ p {
   width: 40px;
   height: 2px;
   left: 50%;
-  background: #fb6e14;
+  background: #351c04;
   margin-left: -20px;
 }
 .fh5co-heading .sub-heading {
@@ -469,8 +469,8 @@ p {
   outline: none;
 }
 .fh5co-tabs-container .fh5co-tabs li.active a {
-  color: #69c2c8;
-  border-bottom: 1px solid #69c2c8;
+  color: #fe5200;
+  border-bottom: 1px solid #fe5200;
 }
 @media screen and (max-width: 480px) {
   .fh5co-tabs-container .fh5co-tabs li {
@@ -565,7 +565,7 @@ p {
   float: left;
   width: 90px;
   height: 90px;
-  background: #69c2c8;
+  background: #8ad1fe;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -587,7 +587,7 @@ p {
   line-height: 40px;
 }
 #fh5co-services .fh5co-video a:hover {
-  background: #57D131;
+  background: #fe5200;
 }
 #fh5co-services .fh5co-video a:hover, #fh5co-services .fh5co-video a:focus, #fh5co-services .fh5co-video a:active {
   text-decoration: none;
@@ -621,14 +621,14 @@ p {
 }
 #fh5co-services .service .icon i {
   font-size: 40px;
-  color: #57D131;
+  color: #351c04;
 }
 #fh5co-services .service h3 {
   text-align: center;
   font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
-  color: #368f95;
+  color: #fe5200;
 }
 #fh5co-services .service:hover, #fh5co-services .service:focus {
   border: 1px solid #e6e6e6;
@@ -652,7 +652,7 @@ p {
   left: 0;
   top: .15em;
   font-size: 23px;
-  color: #57D131;
+  color: #fe5200;
   font-family: 'icomoon';
   speak: none;
   font-style: normal;
@@ -799,7 +799,7 @@ p {
   right: 0;
   left: 0;
   z-index: 0;
-  background: #69c2c8;
+  background: #fe5200;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: 0.1s;
@@ -893,7 +893,7 @@ p {
   border-radius: 0;
 }
 #fh5co-contact .form-control:active, #fh5co-contact .form-control:focus {
-  border-bottom: 1px solid #69c2c8;
+  border-bottom: 1px solid #fe5200;
 }
 
 #fh5co-footer {
@@ -1007,10 +1007,10 @@ p {
 #fh5co-offcanvas a:hover, #fh5co-offcanvas a:focus, #fh5co-offcanvas a:active {
   outline: none;
   text-decoration: none;
-  color: #69c2c8;
+  color: #fe5200;
 }
 #fh5co-offcanvas a.active {
-  color: #69c2c8;
+  color: #fe5200;
 }
 @media screen and (max-width: 768px) {
   #fh5co-offcanvas {
