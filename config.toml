@@ -156,7 +156,7 @@ title = "Superior Glazing Solutions"
     description = "Two decades in the construction & glazing industry, Aaron’s quality of work and craftsmanship can be seen in all his projects."
     img = "images/person1.jpg"
     email = "aarone@superiorglazingsolutions.com"
-    telephone = "425-830-9912'"
+    telephone = "425-830-9912"
 
   [[params.team.item]]
     name = "James Broxson"
@@ -164,7 +164,7 @@ title = "Superior Glazing Solutions"
     description = "Also over decades in the industry, James and his highly trained installation crew are one the best in the business."
     img = "images/person2.jpg"
     email = "jamesb@superiorglazingsolutions.com"
-    telephone = "425-387-7613'"
+    telephone = "425-387-7613"
 
   [[params.team.item]]
     name = "Brianna Broxson"
@@ -172,7 +172,7 @@ title = "Superior Glazing Solutions"
     description = "Estimation and cost analyst is one of the most important part of any projects, Brianna is happy to help you with any project questions."
     img = "images/person3.jpg"
     email = "briannab@superiorglazingsolutions.com"
-    telephone = "425-583-5800'"
+    telephone = "425-583-5800"
 
 
   # [[params.team.item]]
