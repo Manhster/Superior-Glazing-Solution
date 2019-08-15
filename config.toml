@@ -45,21 +45,21 @@ title = "Superior Glazing Solutions"
     name = "marketing"
     title = "Commercial"
     subtitle = "Big, Medium & Small Commercial Projects"
-    description = "<p>New build installations and major refurbishment works form a significant part of our business. All by code, Superior Glazing Solutions Works closely with either main contractors or directly with project lead to complete any of your glazing solutions. From conception to completion, we can help you through the design process, advise on materials and ensure you comply with all current regulations. We are able to work from and produce detailed drawings and calculations for your buildings both internally and externally.</p><ul class='checked'><li>Licensed</li><li>Insured</li><li>Experienced</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>New build installations and major refurbishment works form a significant part of our business. All by code, Superior Glazing Solutions Works closely with either main contractors or directly with project lead to complete any of your glazing solutions. From conception to completion, we can help you through the design process, advise on materials and ensure you comply with all current regulations. We are able to work from and produce detailed drawings and calculations for your buildings both internally and externally.</p><ul class='check'><li>Insured</li><li>Licensed</li><li>Experienced</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
     name = "analysis"
     title = "Residential"
     subtitle = "Single or Multi Residential"
-    description = "<p>From standard to full height frameless, we provide a wide option for single and multi-residential designs. Glazing services includes design drawings, calculations and installation by a fully qualified, experienced installation team. Glass types include elements such as single glazed bolted glass assemblies, toughened laminated canopies, full or cantilevered glass fins and glass door assemblies. Multiple units or single residential installations, interior or exterior glazing work, Superior Glazing Solutions got you covered. </p><ul class='checked'><li>Professional</li><li>Courteous</li><li>Punctual</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>From standard to full height frameless, we provide a wide option for single and multi-residential designs. Glazing services includes design drawings, calculations and installation by a fully qualified, experienced installation team. Glass types include elements such as single glazed bolted glass assemblies, toughened laminated canopies, full or cantilevered glass fins and glass door assemblies. Multiple units or single residential installations, interior or exterior glazing work, Superior Glazing Solutions got you covered. </p><ul class='check'><li>Professional</li><li>Courteous</li><li>Punctual</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 3
     name = "strategy"
     title = "Retrofit & Repairs"
     subtitle = "Residental or Commercial "
-    description = "<p>Like all things, time and elements can alway cause issues with any structure. Glass maintaining can be constant process or in many cases, repairs is inevitable. The aging process and accidental damage of commercial or residential properties is a normal part of any structure. Here at Superior Glazing Solutions, our highly trained and skilled project planner and installation crew can diagnose and fix any retrofits or repairs that’s needed for all internal or external glazing projects. </p><ul class='checked'><li>Reliable</li><li>Dedicated</li><li>Honest</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>Like all things, time and elements can alway cause issues with any structure. Glass maintaining can be constant process or in many cases, repairs is inevitable. The aging process and accidental damage of commercial or residential properties is a normal part of any structure. Here at Superior Glazing Solutions, our highly trained and skilled project planner and installation crew can diagnose and fix any retrofits or repairs that’s needed for all internal or external glazing projects. </p><ul class='check'><li>Reliable</li><li>Dedicated</li><li>Honest</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
 # Services section
 [params.services]
@@ -155,7 +155,7 @@ title = "Superior Glazing Solutions"
     position = "General Manager"
     description = "Two decades in the construction & glazing industry, Aaron’s quality of work and craftsmanship can be seen in all his projects."
     img = "images/person1.jpg"
-    email = "mailto:aarone@superiorglazingsolutions.com"
+    email = "aarone@superiorglazingsolutions.com"
     telephone = "href='tel:425-830-9912'"
 
   [[params.team.item]]
@@ -163,7 +163,7 @@ title = "Superior Glazing Solutions"
     position = "Installation Manager"
     description = "Also over decades in the industry, James and his highly trained installation crew are one the best in the business."
     img = "images/person2.jpg"
-    email = "mailto:jamesb@superiorglazingsolutions.com"
+    email = "jamesb@superiorglazingsolutions.com"
     telephone = "href='tel:425-387-7613'"
 
   [[params.team.item]]
@@ -171,7 +171,7 @@ title = "Superior Glazing Solutions"
     position = "Lead Estimator"
     description = "Estimation and cost analyst is one of the most important part of any projects, Brianna is happy to help you with any project questions."
     img = "images/person3.jpg"
-    email = "mailto:briannab@superiorglazingsolutions.com"
+    email = "briannab@superiorglazingsolutions.com"
     telephone = "href='tel:425-583-5800'"
 
 
@@ -204,6 +204,6 @@ title = "Superior Glazing Solutions"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p>Affiliates & Sponsors <a href='http://sgsglazing.com/' rel='nofollow noopener' target='_blank'>SGS Glazing</a> / <a href='http://wacoatings.com/' rel='nofollow noopener' target='_blank'>WA Coatings</a><br> <small>&copy; 2019. All Rights Reserved. Superior Glazing, LLC & Design Manhster <br> Designed by <a href='http://Klooso.com' rel='nofollow noopener' target='_blank'>Klooso</a></p>"
+  note = "<p>Affiliates & Sponsors <a href='http://sgsglazing.com/' rel='nofollow noopener' target='_blank'>SGS Glazing</a> / <a href='http://wacoatings.com/' rel='nofollow noopener' target='_blank'>WA Coatings</a><br> <small>&copy; 2019. All Rights Reserved. Superior Glazing, LLC & <a href='http://Klooso.com' rel='nofollow noopener' target='_blank'>Klooso</a> <br> Designed in <a href='https://github.com/' rel='nofollow noopener' target='_blank'>GitHub</a> & <a href='https://gohugo.io/' rel='nofollow noopener' target='_blank'>Hugo</a></p>"
 
   
