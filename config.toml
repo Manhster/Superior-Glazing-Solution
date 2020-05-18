@@ -193,7 +193,7 @@ title = "Superior Glazing Solutions"
 [params.contact]
   enable = true
   title = "Questions or Quotes, our Superior Glazing Solutions Team can help you with any glass inquires for all of your project needs."
-  message = "<a href='https://www.google.com/maps/place/Superior+Glazing+Solutions/@48.0553739,-122.1804606,15z/data=!4m13!1m7!3m6!1s0x5485548736417a71:0x13172b66986eefbe!2s1327+9th+St,+Marysville,+WA+98270!3b1!8m2!3d48.0566084!4d-122.1789986!3m4!1s0x54855487369cb415:0x84b93dc3e7698b91!8m2!3d48.0564477!4d-122.1787683' rel='nofollow noopener' target='_blank'>1327 9th St, Marysville, WA 98270</a> <br> Office: <a href='tel:425-583-5800' target='_blank'>425-583-5800</a> <br> Mobile: <a href='tel:425-830-9912' target='_blank'>425-830-9912</a>  <br> [info@SGSglazing.com](mailto:aarone@superiorglazingsolutions.com)"
+  message = "<a href='https://www.google.com/maps/place/Superior+Glazing+Solutions/@48.0553739,-122.1804606,15z/data=!4m13!1m7!3m6!1s0x5485548736417a71:0x13172b66986eefbe!2s1327+9th+St,+Marysville,+WA+98270!3b1!8m2!3d48.0566084!4d-122.1789986!3m4!1s0x54855487369cb415:0x84b93dc3e7698b91!8m2!3d48.0564477!4d-122.1787683' rel='nofollow noopener' target='_blank'>1327 9th St, Marysville, WA 98270</a> <br> Office: <a href='tel:425-583-5800' target='_blank'>425-583-5800</a> <br> Mobile: <a href='tel:425-830-9912' target='_blank'>425-830-9912</a>  <br> [info@superiorglazingsolutions.com](mailto:aarone@superiorglazingsolutions.com)"
   name_placeholder = "Your name"
   email_placeholder = "Your email"
   email_disclaimer = "We'll never share your email with anyone else."
